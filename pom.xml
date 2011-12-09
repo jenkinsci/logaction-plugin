@@ -37,7 +37,7 @@
 
   <groupId>de.fspengler.hudson.plugin</groupId>
   <artifactId>logaction-plugin</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>hpi</packaging>
   <name>Centralized Job(Re)Action</name>
   
